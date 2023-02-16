@@ -1,0 +1,30 @@
+[submodule "mnenkov/flipper-zero-animations"]
+	path = mnenkov/flipper-zero-animations
+	url = git@github.com:mnenkov/flipper-zero-animations.git
+[submodule "wrenchathome/flip0anims"]
+	path = wrenchathome/flip0anims
+	url = git@github.com:wrenchathome/flip0anims.git
+[submodule "guilatoffi/Flipper_animations"]
+	path = guilatoffi/Flipper_animations
+	url = git@github.com:guilatoffi/Flipper_animations.git
+[submodule "stopoxy/FZAnimations"]
+	path = stopoxy/FZAnimations
+	url = git@github.com:stopoxy/FZAnimations.git
+[submodule "Haseosama/FZ_Animations"]
+	path = Haseosama/FZ_Animations
+	url = git@github.com:Haseosama/FZ_Animations.git
+[submodule "Kuronons/FZ_graphics"]
+	path = Kuronons/FZ_graphics
+	url = git@github.com:Kuronons/FZ_graphics.git
+[submodule "Kf637/Animations-for-Flipper-Zero"]
+	path = Kf637/Animations-for-Flipper-Zero
+	url = git@github.com:Kf637/Animations-for-Flipper-Zero.git
+[submodule "phoenixyyz/flipper-zero-animations"]
+	path = phoenixyyz/flipper-zero-animations
+	url = git@github.com:phoenixyyz/flipper-zero-animations.git
+[submodule "synthetikspace/SynthetikSpace-FZ-Animations"]
+	path = synthetikspace/SynthetikSpace-FZ-Animations
+	url = git@github.com:synthetikspace/SynthetikSpace-FZ-Animations.git
+[submodule "CharlesTheGreat77/FlipperZeroAnimation"]
+	path = CharlesTheGreat77/FlipperZeroAnimation
+	url = git@github.com:CharlesTheGreat77/FlipperZeroAnimation.git
